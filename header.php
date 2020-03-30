@@ -2,7 +2,7 @@
 <?php $home_link = false; if($_SERVER['PHP_SELF'] != "/ccot/index.php") { $home_link = true; }  ?>
 
 <?php $company_name = "CapCity Office Technitions" ?>
-<?php $email = "j624ali@gmail.com" ?>
+<?php $email = "contact@capcityofficetechnitions.com" ?>
 <?php $phone = "6136081121" ?>
 <?php $phone_formated = "(613) 608 1121" ?>
 <?php $address = "22, Lorem ipsum dolor, consectetur adipiscing" ?>

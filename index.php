@@ -1,5 +1,3 @@
-<?php $company_name = "CapCity Office Technitions" ?>
-<?php $email = "contact@capcityofficetechnitions.com" ?>
 <?php include("header.php") ?>
 
 
