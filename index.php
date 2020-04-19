@@ -7,7 +7,10 @@
     <div class="container h-100">
       <div class="row h-100 align-items-center justify-content-center text-center">
         <div class="col-lg-10 align-self-end">
-          <h1 class="text-uppercase text-white font-weight-bold">Ottawa's Fastest Growing Office Movers</h1>
+          <img src="img/logo.png" alt="">
+          <br>
+          <br>
+          <h3 class="text-uppercase text-white font-weight-bold">Ottawa's Fastest Growing Office Technicians</h3>
           <hr class="divider my-4">
         </div>
         <div class="col-lg-8 align-self-baseline">
@@ -29,8 +32,7 @@
           <h2 class="text-white mt-0">We've got what you need!</h2>
           <hr class="divider light my-4">
           <p class="text-white-50 mb-4">
-          CCOT is professional contractor for various furniture dealerships and manufacture for the private and public sector clients. With over a combined experience 10 years, CCOT team can handle all challenges and can always find the best solution for our clients. Our purpose is to receive, deliver, and install new or existing furniture products throughout the city. Our experience in products include: Teknion, Steelcase, Haworth, Herman Miller and much more.
-          </p>
+          CCOT is a professional contractor for various furniture dealerships and manufacture for the private and public sector clients. With over a combined experience 10 years, CCOT team can handle all challenges and can always find the best solution for our clients. Our purpose is to receive, deliver, and install new or existing furniture products throughout the city. Our experience in products includes: Teknion, Steelcase, Haworth, Herman Miller and much more.          </p>
           <a class="btn btn-light btn-xl js-scroll-trigger" data-toggle="modal" data-target="#modal" href="">Request a Free Estimate!</a>
         </div>
       </div>
@@ -55,7 +57,7 @@
             <i class="fas fa-4x fa-tools text-primary mb-4"></i>
             <h3 class="h4 mb-2">Office Furniture Installation</h3>
             <p class="text-muted mb-0">
-            CCOT delivers and installs furniture  products of all sorts. We use floor plans to ensure the clients specifications are installed accurately and accordingly. We always offer a full clean up once completely finished the install. This includes a full eco-friendly wipe down and removal of any garbage and packaging.
+            CCOT delivers and installs furniture products of all sorts. We use floor plans to ensure the client's specifications are installed accurately and accordingly. We always offer a full clean up once completely finished the install. This includes a full eco-friendly wipe down and removal of any garbage and packaging.
             </p>
           </div>
         </div>
@@ -63,7 +65,7 @@
           <div class="mt-5">
             <i class="fas fa-4x fa-people-carry text-primary mb-4"></i>
             <h3 class="h4 mb-2">Reconfiguration of Space</h3>
-            <p class="text-muted mb-0">CCOT uses client’s existing product to configure and maximize space needed for employees. We use floor plans and layouts to make the space fully functional and efficient for out clients.</p>
+            <p class="text-muted mb-0">CCOT uses the client’s existing product to configure and maximize the space needed for employees. We use floor plans and layouts to make the space fully functional and efficient for our clients.</p>
           </div>
         </div>
         <div class="col-lg-6 col-md-12 text-center">
@@ -78,7 +80,7 @@
           <div class="mt-5">
             <i class="fas fa-4x fa-server text-primary mb-4"></i>
             <h3 class="h4 mb-2">I.T. Disconnect & Reconnect</h3>
-            <p class="text-muted mb-0">CCOT is fully capable of relocating all of our clients technology including computers and all peripheral devices. We also have the experience to install monitor arm if needed. CCOT will come in and fully label and pack all technology that will be relocates. We use a sheet that easily allows us to indenting existing ________ that will be moving to new spaces upon reconnection. Once completed CCOT makes sure all cables are hidden while phones and monitors are working.</p>
+            <p class="text-muted mb-0">CCOT is fully capable of relocating all of our client's technology including computers and all peripheral devices. We also have the experience to install monitor arms if needed. CCOT will come in and fully label and pack all technology that will be relocated. We use a sheet that easily allows us to identify existing ________ that will be moving to new spaces upon reconnection. Once completed CCOT makes sure all cables are hidden while phones and monitors are working.</p>
           </div>
         </div>
 
@@ -104,7 +106,7 @@
         <div class="col-lg-8 text-center">
           <h2 class="mt-0">Get In Touch!</h2>
           <hr class="divider my-4">
-          <p class="text-muted mb-5">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat enim eaque ab ipsum quis, assumenda qui impedit.</p>
+          <p class="text-muted mb-5">Contact us today and one of our team members will reach out to you as soon as possible.</p>
         </div>
       </div>
       <div class="row">

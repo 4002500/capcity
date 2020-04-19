@@ -41,7 +41,7 @@
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-light  fixed-top py-3" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll-trigger" href="index.php"><?php echo $company_name ?></a>
+      <a class="navbar-brand js-scroll-trigger" href="index.php"><?php //echo $company_name ?><img width="100px" src="img/logo.png" alt=""></a>
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -53,10 +53,10 @@
           </li>
         <?php } ?>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#about">About</a>
+            <a class="nav-link js-scroll-trigger" href="<?php if ($home_link){echo("index.php");} ?>#about">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#services">Services</a>
+            <a class="nav-link js-scroll-trigger" href="<?php if ($home_link){echo("index.php");} ?>#services">Services</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="gallery.php">Gallery</a>

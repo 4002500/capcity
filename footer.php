@@ -26,10 +26,11 @@
           <?php if($home_link) { ?>
           <p class="col-lg-6 col-sm-6"><a href="index.php">Home</a></p>
           <?php } ?>
-          <p class="col-lg-6 col-sm-6"><a href="index.php#about">About</a></p>
-          <p class="col-lg-6 col-sm-6"><a href="index.php#services">Services</a></p>
+          <p class="col-lg-6 col-sm-6"><a href="<?php if ($home_link){echo"index.php";} ?>#about">About</a></p>
+          <p class="col-lg-6 col-sm-6"><a href="<?php if ($home_link){echo"index.php";} ?>#services">Services</a></p>
+
           
-          <p class="col-lg-6 col-sm-6"><a href="index.php#gallery">Gallery</a></p>
+          <p class="col-lg-6 col-sm-6"><a href="gallery.php">Gallery</a></p>
           <p class="col-lg-6 col-sm-6"><a data-toggle="modal" data-target="#modal" href="">Contact</a></p>
           </div>
         </div>
